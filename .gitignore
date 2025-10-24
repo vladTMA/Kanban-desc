@@ -38,3 +38,11 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# Environments
+.env
+.envrc
+
+# Cursor
+.cursorignore
+.cursorindexingignore
